@@ -4,7 +4,7 @@ Exercices semaine 2
 
 -Liens vers mes badges :
 
- https://www.codecademy.com/fr/gavaud36
+ https://www.codecademy.com/fr/users/gavaud36/achievements
  
 - html cv:
   <!DOCTYPE html>
